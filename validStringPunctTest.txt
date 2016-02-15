@@ -1,0 +1,1 @@
+This is a test for "valid" punctuation: I'm a new grad from USC and I like apple-pie. In this case apple-pie is counted as one.

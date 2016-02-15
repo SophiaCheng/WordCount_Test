@@ -1,0 +1,6 @@
+1.First, when using new Scanner().next(), we can get the next string by delimiter pattern, here by default whitespace; 
+  Secondly, it's split by "-" since it's the conventional and valid separator to catenate string or number
+  \W+ is regex to get valid words directly 
+2. I tested all potential combination of string, number and punctuation between each two, including valid combination and the invalid. 
+3. Additional testing include fileNotExist
+4. totally 5 hours 
